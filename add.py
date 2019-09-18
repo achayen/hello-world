@@ -1,4 +1,4 @@
-a=10
-b=20
+a=int(input("enter the first num"))
+b=int(input("enter teh second num"))
 c=a+b
-print(c)
+print("the sum is"c)
